@@ -1,0 +1,12 @@
+.cursor/secrets.json
+.cursor/local.*
+*.token
+*.key
+*-credentials.json
+gcp-oauth.keys.json
+tokens.json
+
+.DS_Store
+.env
+.env.*
+!.env.example
